@@ -1,7 +1,10 @@
 # computer_vision_class
-week2
+week2 
+
 opencv 설치 
+
 version : 3.4.15 
+
 visual studio version: visual studio 22 preview 
 
 수업 내용
