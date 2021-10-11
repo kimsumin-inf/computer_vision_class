@@ -1,2 +1,3 @@
-﻿  video.cpp
+﻿  drawing_using_mouse.cpp
+  LINK : C:\Users\sumin\Desktop\2021-2 수업\computer vision\class\x64\Debug\week2.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
   week2.vcxproj -> C:\Users\sumin\Desktop\2021-2 수업\computer vision\class\x64\Debug\week2.exe
